@@ -22,8 +22,8 @@
 - など
 
 ### その他
-- Jetsonの開発・運用経験
-- Solidworks(3D描画ソフト)
+- エッジデバイスで動作するアプリケーション開発・運用経験(Jetson, Deepstream)
+- 3Dソフト(SolidWorks)の経験
 
 ## 言語
 
