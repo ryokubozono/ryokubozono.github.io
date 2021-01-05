@@ -4,7 +4,7 @@
 
 |key|value|
 |---|-----|
-|Name|久保園　涼 (Ryo Kubozono)|
+|Name|福島　涼 (Ryo Fukushima)|
 
 ## スキル
 ### 言語
@@ -83,3 +83,7 @@
 
 ### 執筆歴
 * []()
+
+### 資格
+
+* Jetson AI Specialist Certification: [https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs](https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs)
