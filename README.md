@@ -18,6 +18,7 @@
 
 - Ruby on Rails
 - Pytorch
+- FastAPI
 - vue.js
 - React.js
 - など
@@ -43,7 +44,8 @@
 #### プロダクト開発
 - エッジ端末で動作する推論アプリケーションの開発(Deepstream, C++)
 - モデルの訓練(教師データの作成、チューニングなど)  
-- エッジデバイスの死活監視などの運用設計 
+- エッジデバイスの死活監視などの運用設計
+- WEBアプリケーション開発(FastAPI, Vue)
 
 ### 2019/05~2020/06 A社
 
@@ -58,9 +60,9 @@
 
 #### 設計標準化プロジェクト
 
-- 3Dモデルの作成
-- 2D図面描画機能作成 
-- 設計ルールの情報収集、整備
+- 3Dモデルの作成, 構造解析
+- 2D図面描画機能作成
+- 設計自動化3Dモデル開発
 
 
 ### 2020/02~2020/06 株式会社PalledAd
@@ -88,3 +90,5 @@
 ### 資格
 
 * Jetson AI Specialist Certification: [https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs](https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs)
+
+* 統計検定2級
