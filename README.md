@@ -1,4 +1,4 @@
-# 久保園 涼 (Ryo 　Kubozono)
+# 久保園 涼 (Ryo Kubozono)
 
 ## 経歴
 
