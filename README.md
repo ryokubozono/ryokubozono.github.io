@@ -1,4 +1,4 @@
-# 福島 涼 (Ryo Fukushima)
+# 久保園 涼 (Ryo 　Kubozono)
 
 ## 経歴
 
