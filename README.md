@@ -31,7 +31,7 @@
 - 大規模データのクエリ改善、非同期処理、Salesforce APIとの連携
 - 関連技術・ツール：Python, FastAPI, TypeScript, Next, Salesforce API, Postgres, AWS cdk
 
-## Firstloop Technology株式会社 - 正社員（2020/7-2021/11）
+## Firstloop Technology株式会社 - （2020/7-2021/11）
 
 画像認識を用いた危険検知システムに関わる開発業務に従事しました。
 
@@ -39,13 +39,9 @@
 - 学習パイプラインの設計、学習用画像を選別するためのWEBアプリケーション開発
 - 関連技術・ツール：Python, Pytorch, YOLO, deepstream, C++, Vue, Gitlab
 
-## Arithmer株式会社 - 正社員（2019/5-2020/6）
+## Arithmer株式会社 - （2019/5-2020/6）
 
 社内向けアプリケーション（日報アプリ、営業管理アプリ）の開発、運用を担当していました。
 
 - 機能開発、CICD導入、DB設計、画面設計
 - 関連技術・ツール：Ruby on Rails, Readmine Plugin, Github, Circle CI
-
-## T社 - 正社員（2017/4-2019/4）
-
-港湾の流体荷役に使われる機械であるローディングアームの設計に従事していました。
